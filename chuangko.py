@@ -41,7 +41,7 @@ def quit(signum, frame):
 selected_window_title = None 
 x=15.2
 FREQ = np.arange(5.05, 18, 0.0875*2)  
-file_path1 = 'data10.xlsx'  # 替换为你的文件路径
+file_path1 = './data/data10.xlsx'  # 替换为你的文件路径
 file_path2 = 'jl.xlsx'  # 替换为你的文件路径  
 file_path3 = 'jl.xlsx'  # 替换为你的文件路径  
 file_path4 = 'jl.xlsx'  # 替换为你的文件路径  
